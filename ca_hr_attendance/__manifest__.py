@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "ca_hr_attendance",
+    'name': "Attendances by coordinate and picture",
 
     'summary': """
-       Track employee attendance""",
+       Track employee attendance by coordinate and image, connect with mobile apps""",
 
     'description': """
-        Track employee attendance by coordinate and image
+        Track employee attendance by coordinate and image,  connect with mobile apps
     """,
 
-    'author': "choir.arifin@gmail.com",
+    'author': "choirularifin1010@gmail.com",
     'website': "https://choirular.wordpress.com/",
     'category': 'Human Resources',
     'version': '0.1',
